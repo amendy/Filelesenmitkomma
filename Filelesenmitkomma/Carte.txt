@@ -1,0 +1,8 @@
+hermannplatz,useaben,hermanstraße,12
+treptowerstraße,unein,neukolln,56
+alexanderplatz,usex,gesundbrunnen,47
+hermannplatz,usex,alexanderplatz,56
+alexanderplatz,usex,hermanstraße,67
+gesundbrunnen,unein,friedrichstraße,23
+friedrichstraße,ueins,treptowerstraße,77
+neukolln,uein,friedrichstraße,22
